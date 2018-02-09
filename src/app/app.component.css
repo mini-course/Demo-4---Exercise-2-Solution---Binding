@@ -1,0 +1,17 @@
+.icon-wrapper{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #00CCFF;
+}
+
+.star-icon{
+    font-size: 15rem;
+    position: absolute;
+    top: calc(50% - 80px);
+    left: calc(50% - 75px);
+    color: #FEF200;
+    cursor: pointer;
+}
